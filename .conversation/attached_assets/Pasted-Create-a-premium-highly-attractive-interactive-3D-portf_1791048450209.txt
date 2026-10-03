@@ -1,0 +1,470 @@
+Create a **premium, highly attractive, interactive 3D portfolio website frontend for a Computer Science Engineering student named Rohit**.
+
+The website must look like a **real production-quality portfolio designed by an expert UI/UX designer**, not a basic student template. Use **React, Three.js / React Three Fiber, Framer Motion and modern CSS**. Focus only on the frontend: UI, UX, 3D visuals, animations, responsiveness and interactions.
+
+## 1. Overall Design
+
+Create a unique visual identity combining:
+
+* Futuristic 3D technology
+* CSE / software-development aesthetic
+* AI/ML visualizations
+* Premium dark interface
+* Glassmorphism
+* Cinematic lighting
+* Deep black / midnight-blue background
+* Electric blue and subtle violet accents
+* Soft gradients
+* Realistic 3D depth
+* Elegant modern typography
+* Minimal but visually rich layouts
+
+The website should feel **intelligent, futuristic, premium and immersive** while remaining easy to navigate.
+
+Do NOT overcrowd the screen with effects.
+
+---
+
+## 2. Navigation
+
+Create a floating transparent glass navbar at the top.
+
+Navigation:
+
+**Home · About · Skills · Projects · Experience · Education · Certifications · Contact**
+
+Include:
+
+* Animated active-section indicator
+* Smooth scrolling
+* Glass blur
+* Subtle glow
+* Hover animations
+* Mobile hamburger menu
+* Dark/light mode
+* Resume button
+
+The navbar should become slightly more compact while scrolling.
+
+---
+
+## 3. Hero — Main 3D Experience
+
+Make the hero section the most visually impressive part of the website.
+
+Create a large interactive 3D developer environment containing:
+
+* Realistic 3D laptop
+* 3D monitor
+* Floating code editor
+* Holographic UI panels
+* AI neural-network structure
+* Floating programming symbols
+* Glowing data particles
+* Abstract 3D geometric objects
+* Subtle ambient fog/light
+
+The 3D environment should react to the user's mouse movement with realistic parallax.
+
+Display:
+
+**Hi, I'm Rohit**
+
+**Computer Science Engineering Student**
+
+**I build intelligent, interactive and creative digital experiences.**
+
+Add two premium CTA buttons:
+
+**Explore My Work →**
+**Download Resume ↓**
+
+Add GitHub, LinkedIn and Email icons.
+
+Use smooth entrance animation where the 3D environment appears first and the typography fades/slides in afterward.
+
+---
+
+## 4. About Me
+
+Create a modern split-screen section.
+
+Left side:
+
+* Short professional introduction
+* Career interests
+* CSE focus
+* CTA
+
+Right side:
+
+A beautiful interactive 3D workstation/laptop.
+
+Add animated statistics:
+
+**05+ Projects**
+**10+ Technologies**
+**03+ Certifications**
+**∞ Curiosity**
+
+Cards should float slightly and react to cursor movement.
+
+---
+
+## 5. Skills
+
+Create a futuristic **3D technology ecosystem** instead of ordinary progress bars.
+
+Organize skills into categories:
+
+### Programming
+
+C, C++, Python, Java
+
+### Web
+
+HTML, CSS, JavaScript, React, Node.js
+
+### Database
+
+MySQL, MongoDB
+
+### AI / ML
+
+Python, TensorFlow, OpenCV, Scikit-learn
+
+### Tools
+
+Git, GitHub, VS Code
+
+### Creative / Development
+
+Unity, Blender
+
+Use floating glass cards with recognizable technology icons.
+
+On hover:
+
+* Card tilts in 3D
+* Icon enlarges slightly
+* Border glows
+* Background changes subtly
+* Technology description appears
+
+Do NOT use fake percentage skill bars.
+
+---
+
+## 6. AI / ML Showcase
+
+Create a dedicated futuristic AI section.
+
+Place a large animated **3D neural-network brain** in the center.
+
+Surround it with:
+
+* Connected nodes
+* Data streams
+* Floating particles
+* Neural connections
+* Holographic graphs
+* Mathematical/code symbols
+
+Display:
+
+**Machine Learning**
+**Deep Learning**
+**Computer Vision**
+**NLP**
+**Data Analytics**
+
+Make the neural network react subtly to cursor movement.
+
+---
+
+## 7. Projects — Main Portfolio Showcase
+
+Make Projects one of the strongest sections.
+
+Create large cinematic **3D project cards**.
+
+### Project 01 — DinoVerse
+
+**Unity-based dinosaur / Jurassic Park-style interactive environment**
+
+Show a cinematic 3D dinosaur/environment preview.
+
+Technologies:
+Unity · C# · 3D
+
+### Project 02 — AI/ML Project
+
+Show an animated neural-network / AI visualization.
+
+Technologies:
+Python · Machine Learning · TensorFlow
+
+### Project 03 — Full-Stack Web Application
+
+Show a modern web application interface inside a 3D browser frame.
+
+Technologies:
+React · Node.js · Database
+
+### Project 04 — Data Visualization
+
+Show an interactive futuristic dashboard.
+
+Technologies:
+Python · Data Analytics · Visualization
+
+Each project card must have:
+
+* 3D depth
+* Large visual preview
+* Technology badges
+* Short description
+* GitHub button
+* Live Demo button
+* View Details button
+
+When hovering, the project card should move slightly toward the user and reveal additional project information.
+
+---
+
+## 8. Project Details Interaction
+
+When clicking **View Details**, open a beautiful fullscreen project modal.
+
+Include:
+
+* Large project preview
+* Project description
+* Problem
+* Solution
+* Technologies
+* Key features
+* GitHub
+* Live Demo
+
+Use smooth 3D modal transitions.
+
+---
+
+## 9. Experience
+
+Create an elegant vertical 3D timeline.
+
+Each milestone should contain:
+
+* Organization
+* Position
+* Duration
+* Responsibilities
+* Technologies
+
+As the user scrolls, the timeline should progressively illuminate.
+
+Use subtle 3D depth instead of excessive decoration.
+
+---
+
+## 10. Education
+
+Create a premium education timeline.
+
+Display:
+
+**Computer Science Engineering**
+
+Add:
+
+* Institution
+* Academic period
+* Relevant subjects
+* Achievements
+
+Use animated timeline nodes and glass cards.
+
+---
+
+## 11. Certifications
+
+Create floating 3D certificate cards.
+
+Cards should have realistic depth and subtle perspective.
+
+On hover:
+
+* Certificate rotates slightly
+* Glow increases
+* Details appear
+* “View Certificate →” button appears
+
+Use a horizontal interactive carousel on desktop and swipe-friendly cards on mobile.
+
+---
+
+## 12. Resume
+
+Create a premium 3D resume section.
+
+Display a realistic floating document/card.
+
+Heading:
+
+**My Resume**
+
+Buttons:
+
+**View Resume**
+**Download Resume**
+
+Add a subtle document rotation based on cursor movement.
+
+---
+
+## 13. Contact
+
+Create a futuristic communication environment.
+
+Heading:
+
+**Let's Build Something Amazing.**
+
+Left:
+
+* Short message
+* Email
+* LinkedIn
+* GitHub
+
+Right:
+
+Glassmorphism contact form:
+
+**Name**
+**Email**
+**Message**
+**Send Message →**
+
+Add a small animated 3D communication/network visualization.
+
+Frontend validation only. No backend required.
+
+---
+
+## 14. 3D Animation System
+
+Use high-quality but performance-conscious animations:
+
+* Mouse-following 3D objects
+* Parallax
+* Scroll-triggered animations
+* Smooth camera movement
+* Floating particles
+* Card tilt
+* Magnetic buttons
+* Hover depth
+* Animated counters
+* 3D object rotation
+* Section transitions
+* Cursor interaction
+* Smooth page transitions
+
+Animations should feel **cinematic and natural**, not like random effects.
+
+---
+
+## 15. UI/UX
+
+Follow professional UX principles.
+
+Prioritize:
+
+**Clarity > decoration**
+**Usability > excessive animation**
+**Performance > unnecessary 3D**
+**Content > visual clutter**
+
+Use:
+
+* Consistent spacing
+* Strong typography hierarchy
+* Clear CTA buttons
+* Accessible contrast
+* Readable text
+* Consistent card styles
+* Intuitive navigation
+* Keyboard accessibility
+* Reduced-motion support
+
+Every interaction should have a clear purpose.
+
+---
+
+## 16. Responsive Design
+
+Make the entire frontend responsive for:
+
+**Desktop · Laptop · Tablet · Mobile**
+
+On mobile:
+
+* Simplify heavy 3D scenes
+* Reduce particle count
+* Disable expensive effects when necessary
+* Keep important content visible
+* Maintain smooth scrolling
+* Preserve the premium visual identity
+
+---
+
+## 17. Loading Experience
+
+Create a short cinematic loading screen.
+
+Show:
+
+**ROHIT**
+
+with a minimal animated 3D loading element.
+
+Transition smoothly into the portfolio.
+
+Do not make the loading screen unnecessarily long.
+
+---
+
+## 18. Performance
+
+Optimize the frontend carefully:
+
+* Lazy-load 3D assets
+* Optimize textures
+* Limit particle count
+* Use efficient animations
+* Avoid unnecessary re-renders
+* Use responsive rendering quality
+* Provide reduced-motion behavior
+* Maintain smooth interaction on normal laptops and mobile devices
+
+The portfolio must look impressive **without becoming slow**.
+
+---
+
+## 19. Final Visual Direction
+
+The final website should feel like a combination of:
+
+**Apple-level minimalism**
+
+* **premium SaaS UI**
+* **futuristic 3D technology**
+* **AI/ML visualization**
+* **high-end developer portfolio**
+* **cinematic interactive experience**
+
+The final result should be **unique, attractive, professional, immersive and recruiter-friendly**, suitable for CSE internships, placements, LinkedIn, GitHub and personal branding.
+
+**Do not make it look like a generic portfolio template. Build a distinctive visual identity specifically for Rohit.**

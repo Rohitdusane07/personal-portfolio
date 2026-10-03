@@ -1,0 +1,1 @@
+- [Portfolio factual content](portfolio-factual-content.md) — keep Rohit's unprovided career, education, credentials, and profile URLs as editable placeholders; don't invent them.

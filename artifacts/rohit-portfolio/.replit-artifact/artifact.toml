@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Rohit — Interactive Portfolio"
+description = "A premium, responsive portfolio for Rohit, a Computer Science Engineering student, showcasing software, AI/ML, and 3D projects through an immersive interactive experience."
+version = "1.0.0"
+id = "artifacts/rohit-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18193
+
+[services.development]
+run = "pnpm --filter @workspace/rohit-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/rohit-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/rohit-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18193"
+BASE_PATH = "/"
